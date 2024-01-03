@@ -29,8 +29,8 @@
             "id": "https://tsi-events.de/kontakt.html",
             "url": "https://tsi-events.de/kontakt.html",
             "title": "Kontakt",
-            "summary": "Die vorherigen Seiten haben Ihr Interesse geweckt oder Sie haben weitere Fragen? Dann melden Sie sich gerne per E-mail oder auf den unten verlinkten Social-Media-Kanälen bei mir. Schnellstmöglich erhalten Sie eine Antwort von mir. E-mail: tsi-events@gmx.de",
-            "content_html": "<h5>Die vorherigen Seiten haben Ihr Interesse geweckt oder Sie haben weitere Fragen?</h5>\n<p>Dann melden Sie sich gerne per E-mail oder auf den unten verlinkten Social-Media-Kanälen bei mir.</p>\n<p><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Schnellstmöglich </span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">erhalten Sie e</span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">ine Antwort von mir.</span></p>\n<p> </p>\n<p><strong>E-mail: <a href=\"mailto:tsi-events@gmx.de\">tsi-events@gmx.de</a></strong></p>\n<p><a href=\"#\" class=\"fa fa-facebook\"></a> <a href=\"#\" class=\"fa fa-twitter\"></a></p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "summary": "Die vorherigen Seiten haben Ihr Interesse geweckt oder Sie haben weitere Fragen? Dann melden Sie sich gerne per E-mail oder auf den unten verlinkten Social-Media-Kanälen bei mir. Schnellstmöglich erhalten Sie eine Antwort von mir. E-mail: tsi-events@gmx.de test",
+            "content_html": "<h5>Die vorherigen Seiten haben Ihr Interesse geweckt oder Sie haben weitere Fragen?</h5>\n<p>Dann melden Sie sich gerne per E-mail oder auf den unten verlinkten Social-Media-Kanälen bei mir.</p>\n<p><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">Schnellstmöglich </span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">erhalten Sie e</span><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">ine Antwort von mir.</span></p>\n<p> </p>\n<p><strong>E-mail: <a href=\"mailto:tsi-events@gmx.de\">tsi-events@gmx.de</a></strong></p>\n<p> test</p>",
             "author": {
                 "name": "Thomas Schmidt-Isermann"
             },
@@ -38,7 +38,7 @@
                    "Teambulding-Events, die im Kopf bleiben"
             ],
             "date_published": "2023-10-24T15:28:35+02:00",
-            "date_modified": "2024-01-03T00:03:16+01:00"
+            "date_modified": "2024-01-04T00:02:37+01:00"
         },
         {
             "id": "https://tsi-events.de/ueber-mich.html",
