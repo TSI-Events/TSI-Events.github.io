@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://bricketbros.ddns.net/sitemap.xml
+Sitemap: https://tsi-events.de/sitemap.xml

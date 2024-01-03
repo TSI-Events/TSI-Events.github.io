@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://bricketbros.ddns.net/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://tsi-events.de/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://bricketbros.ddns.net/</loc>
+<loc>https://tsi-events.de/</loc>
 </url>
 <url>
-<loc>https://bricketbros.ddns.net/kontakt.html</loc>
+<loc>https://tsi-events.de/kontakt.html</loc>
 <lastmod>2024-01-03T00:03:16+01:00</lastmod>
 </url>
 <url>
-<loc>https://bricketbros.ddns.net/page/2/</loc>
+<loc>https://tsi-events.de/page/2/</loc>
 </url>
 <url>
-<loc>https://bricketbros.ddns.net/page/3/</loc>
+<loc>https://tsi-events.de/page/3/</loc>
 </url>
 <url>
-<loc>https://bricketbros.ddns.net/tsi-events.html</loc>
+<loc>https://tsi-events.de/tsi-events.html</loc>
 <lastmod>2024-01-03T00:08:36+01:00</lastmod>
 </url>
 <url>
-<loc>https://bricketbros.ddns.net/ueber-mich.html</loc>
+<loc>https://tsi-events.de/ueber-mich.html</loc>
 <lastmod>2024-01-03T00:08:59+01:00</lastmod>
 </url>
 </urlset>
