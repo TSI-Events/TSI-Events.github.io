@@ -4,10 +4,6 @@ var last_scroll_position;
 var header = document.getElementById("js-header");
 var stickyMenu = document.getElementById("js-navbar-menu");
 
-window.addEventListener('scroll', function (e) {
-	console.log("test")
-});
-
 // Dropdown menu
 (function (menuConfig) {
     /**
