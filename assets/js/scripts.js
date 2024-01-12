@@ -9,20 +9,20 @@ window.addEventListener('scroll', function (e) {
 
 	// Scrolling down
 	if (new_scroll_position < last_scroll_position && last_scroll_position > 40) {
-		header.classList.remove("is-visible");
-		header.classList.add("is-hidden");
+		// header.classList.remove("is-visible");
+		// header.classList.add("is-hidden");
 
 		// Scrolling up
 	} else if (new_scroll_position > last_scroll_position) {
-		header.classList.remove("is-hidden");
-		header.classList.add("is-visible");
+		// header.classList.remove("is-hidden");
+		// header.classList.add("is-visible");
 		if (stickyMenu) {
 			stickyMenu.classList.add("is-sticky");
 		}
 	}
 
 	if (last_scroll_position < 1) {
-		header.classList.remove("is-visible");
+		// header.classList.remove("is-visible");
 
 		if (stickyMenu) {
 			stickyMenu.classList.remove("is-sticky");
