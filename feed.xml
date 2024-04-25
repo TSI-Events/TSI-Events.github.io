@@ -3,7 +3,7 @@
     <title>TSI-Events</title>
     <link href="https://tsi-events.de/feed.xml" rel="self" />
     <link href="https://tsi-events.de" />
-    <updated>2024-03-24T19:57:25+01:00</updated>
+    <updated>2024-04-25T14:58:22+02:00</updated>
     <author>
         <name>Thomas Schmidt-Isermann</name>
     </author>
@@ -70,7 +70,7 @@
         <id>https://tsi-events.de/tsi-events.html</id>
             <category term="Teambuilding, Spaß und Interaktion"/>
 
-        <updated>2024-03-22T16:04:21+01:00</updated>
+        <updated>2024-04-25T14:58:22+02:00</updated>
             <summary>
                 <![CDATA[
                     Willkomen bei TSI-Events! Sie wollen das "Wir"-Gefühl innerhalb Ihres Teams stärken und einen spaßigen Abend mit Ihrem Team erleben? Sie wollen die Kooperation, Kommunikation und das Vertrauen innerhalb Ihres Teams verbessern? Dann sind Sie hier genau richtig! Ein TSI-Event ist ein spaßiges Teambuilding-Event, welches einen gameshow-ähnlichen Aufbau hat. In aufgeteilten Teams spielt man sich durch ein individuell zusammengestelltes Programm voller Minispiele und Teamaufgaben. Ihre Vorlieben und Ziele können Sie mir in einem Vorgespräch mitteilen, sodass Ihrem einmaligen Teamevent nichts mehr&hellip;
@@ -88,7 +88,7 @@
 <h1>Für wen ist es geeignet?</h1>
 <p>Ein TSI-Event ist für verschiedene Gruppen geeignet, sei es eine Arbeitsgruppe, Sportmannschaft oder auch eine Freundesgruppe. Es ist ganz egal, welchen Anlass Sie verfolgen. Die Größe der Gruppe sollte 25 Personen nicht überschreiten, ist gegebenenfalls nach Absprache dennoch möglich. Das Event findet bei Ihnen statt. Das heißt, Sie sollten einen geeigneten Raum im Umkreis von Frankfurt zur Verfügung haben. Unabhängig von Ihren Intentionen ist bei diesem Teambuilding-Event für jeden etwas dabei.</p>
 <h1>Wie läuft es ab?</h1>
-<p>Sie treten mit mir in Kontakt via E-Mail, WhatsApp, Instagram, Facebook, LinkedIn oder telefonisch. Ich werde Ihnen schnellstmöglich antworten und mich mit Ihren Vorstellungen auseinandersetzen. Im Vorfeld erfrage ich Ihre Präferenzen, mache mich mit den Gegebenheiten vertraut und passe dementschprechend das Programm an. Nehmen Sie gerne Kontakt mit mir auf, um mehr von meinem Angebot zu erfahren.</p>
+<p>Sie treten mit mir in Kontakt via E-Mail, WhatsApp, Instagram, LinkedIn oder telefonisch. Ich werde Ihnen schnellstmöglich antworten und mich mit Ihren Vorstellungen auseinandersetzen. Im Vorfeld erfrage ich Ihre Präferenzen, mache mich mit den Gegebenheiten vertraut und passe dementschprechend das Programm an. Nehmen Sie gerne Kontakt mit mir auf, um mehr von meinem Angebot zu erfahren.</p>
 <p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Dieser Teamabend soll zu einem unvergesslichen Erlebnis für das ganze Team werden!</span></p>
 </div>
 <p>
@@ -170,11 +170,11 @@ window.onload = function() {
         <media:content url="https://tsi-events.de/media/posts/2/Klein_Karten.jpg" medium="image" />
             <category term="Ihr nächstes Team-Event!"/>
 
-        <updated>2024-03-24T19:57:25+01:00</updated>
+        <updated>2024-04-25T14:56:55+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tsi-events.de/media/posts/2/Klein_Karten.jpg" alt="" />
-                    Die vorherigen Seiten haben Ihr Interesse geweckt oder Sie haben weitere Fragen? Dann melden Sie sich gerne telefonisch, per E-mail oder auf den unten verlinkten Social-Media-Kanälen bei mir. Schnellstmöglich erhalten Sie eine Antwort von mir. Telefon: 015566 311975 tsi-events@gmx.de Impressum Thomas Schmidt-Isermann 60388 Frankfurt am Main, Neuer Weg 33 tsi-events@gmx.de
+                    Die vorherigen Seiten haben Ihr Interesse geweckt oder Sie haben weitere Fragen? Dann melden Sie sich gerne telefonisch, per E-mail oder auf den unten verlinkten Social-Media-Kanälen bei mir. Schnellstmöglich erhalten Sie eine Antwort von mir. Telefon: 015566 311975 tsi-events@gmx.de Impressum Thomas Schmidt-Isermann 60388 Frankfurt am Main, Neuer Weg 33 tsi-events@gmx.de USt.-ID: DE364529433
                 ]]>
             </summary>
         <content type="html">
@@ -190,7 +190,6 @@ window.onload = function() {
 <tbody>
 <tr>
 <td><a href="mailto:tsi-events@gmx.de"> <i class="fa-solid fa-envelope faSocialIcons"></i></a></td>
-<td><a href="https://www.facebook.com/profile.php?id=61551999624901"> <i class="fa-brands fa-facebook faSocialIcons"></i></a></td>
 <td><a href="https://www.instagram.com/tsi.events/"> <i class="fa-brands fa-instagram faSocialIcons"></i></a></td>
 <td><a href="https://www.linkedin.com/in/tsi-events/"> <i class="fa-brands fa-linkedin faSocialIcons"></i></a></td>
 <td><a href="https://wa.me/15566311975"> <i class="fa-brands fa-whatsapp faSocialIcons"></i></a></td>
@@ -201,7 +200,8 @@ window.onload = function() {
 <p><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;"><strong>Impressum</strong></span></span></p>
 <p>Thomas Schmidt-Isermann</p>
 <p>60388 Frankfurt am Main, Neuer Weg 33</p>
-<p>tsi-events@gmx.de</p>
+<p><a href="mailto:tsi-events@gmx.de">tsi-events@gmx.de</a></p>
+<p>USt.-ID: DE364529433</p>
             ]]>
         </content>
     </entry>
